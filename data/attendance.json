@@ -1,5 +1,49 @@
 [
   {
+    "id": "att_1786292084409_dfofo",
+    "studentId": "stu_1786284417779_59kqo",
+    "studentNumber": "35013",
+    "name": "Manoj Senevirathna",
+    "gateType": "IN",
+    "date": "2026-08-09",
+    "time": "9:44:44 pm",
+    "timestamp": "2026-08-09T16:14:44.407Z",
+    "status": "Present"
+  },
+  {
+    "id": "att_1786292083908_czcox",
+    "studentId": "stu_1786284417779_59kqo",
+    "studentNumber": "35013",
+    "name": "Manoj Senevirathna",
+    "gateType": "OUT",
+    "date": "2026-08-09",
+    "time": "9:44:43 pm",
+    "timestamp": "2026-08-09T16:14:43.906Z",
+    "status": "Departed"
+  },
+  {
+    "id": "att_1786292063779_b1nza",
+    "studentId": "stu_1786284417779_59kqo",
+    "studentNumber": "35013",
+    "name": "Manoj Senevirathna",
+    "gateType": "OUT",
+    "date": "2026-08-09",
+    "time": "9:44:23 pm",
+    "timestamp": "2026-08-09T16:14:23.778Z",
+    "status": "Departed"
+  },
+  {
+    "id": "att_1786292063768_wql1a",
+    "studentId": "stu_1786284417779_59kqo",
+    "studentNumber": "35013",
+    "name": "Manoj Senevirathna",
+    "gateType": "IN",
+    "date": "2026-08-09",
+    "time": "9:44:23 pm",
+    "timestamp": "2026-08-09T16:14:23.534Z",
+    "status": "Present"
+  },
+  {
     "id": "att_1786286254418_uvedg",
     "studentId": "stu_1786284417779_59kqo",
     "studentNumber": "35013",
